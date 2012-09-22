@@ -13,7 +13,6 @@
 
 #include <boost/array.hpp>
 #include <boost/config.hpp>
-#include <boost/cstdint.hpp>
 #include <boost/noncopyable.hpp>
 #include <boost/static_assert.hpp>
 
